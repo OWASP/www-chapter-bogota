@@ -17,6 +17,15 @@ El capítulo Bogotá busca reunir a los apasionados en el desarrollo seguro que 
 
 Es un gusto para nosotros reanudar las labores del Capítulo Bogotá de OWASP
 
+
+Principales temas a tratar en el capitulo :
+
+  - Penetration testing
+  - Desarrollo Seguro
+  - Vulnerability Assessment
+  - Security code review
+  - Threat modeling (STRIDE) Threat Dragon
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
