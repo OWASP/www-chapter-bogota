@@ -4,10 +4,7 @@ layout: col-sidebar
 title: OWASP Bogota
 tags: Bogota
 level: 0
-
 region: Latin America
-
-auto-migrated: 1
 
 ---
 
