@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Bogota
-tags: example-tag
+tags: Bogota
 level: 0
 
 region: Latin America
