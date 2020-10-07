@@ -11,6 +11,14 @@ auto-migrated: 1
 
 ---
 
+## Bienvenidos a nuestro capítulo 
+
+
+Alienados con la filosofía de Owasp, el capitulo de la ciudad de Bogotá busca generar un espacio para compartir conocimiento y acompañar a las personas interesadas en el mundo del desarrollo seguro de software.
+
+El capítulo Bogotá busca reunir a los apasionados en el desarrollo seguro que se encuentren en la capital de Colombia. Si eres un apasionado de estos temas y te animas a compartir, por favor no dudes en contactarnos, estamos en busqueda de colaboradores para los futuros eventos.
+
+Es un gusto para nosotros reanudar las labores del Capítulo Bogotá de OWASP
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
