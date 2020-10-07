@@ -4,7 +4,7 @@ title: PastEvents
 displaytext: Eventos Pasados
 layout: null
 tab: true
-order: 2
+order: 1
 tags: Bogotá
 
 ---
