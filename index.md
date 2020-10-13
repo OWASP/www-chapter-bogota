@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Bogota
 tags: Bogota
 level: 0
-region: Latin America
+region: South America
 
 meetup-group: OWASP-Bogota
 country: Colombia
