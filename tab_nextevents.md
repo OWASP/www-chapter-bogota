@@ -14,4 +14,4 @@ tags: Bogota
 En Noviembre del 2020 retomamos nuestras reuniones
 
 Todos son bienvenidos a unirse a nuestras reuniones del capítulo
-[HackLab Bogotá](https://www.meetup.com/es-ES/OWASP-Bogota-Meetup-Group/)
+[Owasp - Meetup Bogotá](https://www.meetup.com/es-ES/OWASP-Bogota-Meetup-Group/)
