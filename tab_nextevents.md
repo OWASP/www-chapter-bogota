@@ -13,7 +13,7 @@ tags: Bogota
 
 ## Eventos 2020
 
-### Date/Time: Dic 2 2020, 18:00:00 PM UTC-5
+### Date/Time: Dic 18-19 2020, 14:15:00 PM UTC-5
 ### Location: https://www.youtube.com/c/OWASPLATAM/
 ### Register: https://www.meetup.com/OWASP-Bogota-Meetup-Group/events/275231297/
 ### Presentation summary:
