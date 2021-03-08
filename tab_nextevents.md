@@ -11,18 +11,22 @@ tags: Bogota
 
 ## Próximos Eventos
 
-## Eventos 2020
+## Eventos 2021
 
-### Date/Time: Dic 18-19 2020, 14:15:00 PM UTC-5
-### Location: https://www.youtube.com/c/OWASPLATAM/
-### Register: https://www.meetup.com/OWASP-Bogota-Meetup-Group/events/275231297/
+### Date/Time: Marzo 17 2021, 06:00:00 PM UTC-5
+### Location: https://www.youtube.com/channel/UCNnWWcbUWuCOWgrN3lFsSnw
+### Register: https://www.meetup.com/es-ES/OWASP-Bogota-Meetup-Group/events/276819396/
 ### Presentation summary:
 
-OWASP LATAM Christmas
+Nuestra primera reunión 2021 - Virtual
 
-De nuevo nos unimos como región para traer a todos ustedes un espacio para compartir nuestro conocimiento, van a tener la oportunidad de ver charlas de diferentes líderes e invitados en la región para cerrar el año con todo el espíritu de los capítulos OWASP.
+Volvemos con dos charlas super interesantes y por supuesto un espacio para hablar sobre los temas de interés y cosas que vienen para la comunidad.
 
-Va a ser un evento de dos días, con múltiples charlas desde toda la región donde si duda sin importar el tema que quieras aprender, vas a poder disfrutar de un espacio para tu interes, te esperamos en nuestro OWASP LATAM Christmas.
+1. Bienvenida Capitulo Bogotá
+2. Tracking Botnets on a Budget - Felipe Duarte @dark0pcodes
+3. El precedente a "I1 Weak Guessable, or Hardcoded Passwords" IOT- Luis Hernandez @luisco100
+4. Próximas charlas, llamado a CFP.
+5.Preguntas y cierre del evento.
 
 Todos son bienvenidos a unirse a nuestras reuniones del capítulo
 [Owasp - Meetup Bogotá](https://www.meetup.com/es-ES/OWASP-Bogota-Meetup-Group/)
