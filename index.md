@@ -5,8 +5,7 @@ title: OWASP Bogota
 tags: Bogota
 level: 0
 region: South America
-
-meetup-group: OWASP-Bogota
+meetup-group: OWASP-Bogota-Meetup-Group
 country: Colombia
 
 ---
