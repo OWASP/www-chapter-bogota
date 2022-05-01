@@ -11,7 +11,7 @@ tags: Bogota
 
 ## Próximos Eventos
 
-## Eventos 2021
+## Eventos 2022
 
 ### Date/Time: Mayo 5 2022, 06:00:00 PM UTC-5
 ### Location: Calle 96 ## 10 - 38 · Bogotá
