@@ -12,7 +12,7 @@ country: Colombia
 
 ## Bienvenidos a nuestro capítulo 
 
-{% include chapter_events.html group=page.meetup-group %}
+
 
 Alienados con la filosofía de OWASP, el capitulo de la ciudad de Bogotá busca generar un espacio para compartir conocimiento y acompañar a las personas interesadas en los múltiples proyectos de OWASP que ahora abarcan mucho más que información relacionada con seguridad en el desarrollo.
 
@@ -33,4 +33,4 @@ Principales temas a tratar en el capitulo :
  
  Y cualquier tema que quiera plantear nuestra comunidad que nos permita revisar los proyectos o OWASP o nos genere la oportunidad de construir proyectos para OWASP desde nuestro capítulo, su participación, opinión y apoyo es fundamental para lograr tener un capítulo activo, fuerte e interesante para todos los involucrados en nuestra comunidad.
  
- 
+ {% include chapter_events.html group=page.meetup-group %}
