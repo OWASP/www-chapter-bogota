@@ -20,15 +20,21 @@ tags: Bogota
 
 Nuestra primera reunión del 2023 - Modalidad presencial
 
-En esta ocasión nos acompaña Jawy y Jesus Sanchez vamos hablar protección de identidad en blockchain y una charla introductoria sobre sql injection en ambientes controlados.
+En esta ocasión nos acompaña Jawy y Jesus Suárez vamos hablar sobre ataques dirigidos a smartcontracts y DAO y una charla introductoria sobre sql injection en ambientes controlados.
 
 Un agradecimiento muy especial a la Fundación Universitaria San Mateo, recuerden que los asistentes deben enviar el número de cédula al correo luis.hernandez@owasp.org previamente para evitar problemas con el acceso a las instalaciones.
 
-Nombre del ponente: Jawy
+Nombre del ponente: Jawy Romero  @JawyPinto
 
-Título de la charla: Protección de identidad en blockchain
+Título de la charla: Ataques dirigidos a smartcontracts y DAO
+
+Descripción:
+Dar a conocer los ataques conocidos en smartcontracts y cómo se han visto afectadas las aplicaciones en entornos blockchain.
+
+Público con conocimiento básico en tecnologías Blockchain
 
 Duración: 45 Min
+
 ------------------------
 
 Nombre del ponente: Jesús Suárez
