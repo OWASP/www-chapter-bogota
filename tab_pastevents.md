@@ -11,6 +11,22 @@ tags: Bogota
 
 ## Eventos Anteriores
 
+## Eventos 2023
+
+### Date/Time: Septiembre 28 2023, 06:00:00 PM UTC-5
+### Location: Universidad del rosario · Bogotá
+### Register: https://www.meetup.com/owasp-bogota-meetup-group/events/296199949/
+### Presentation summary:
+
+RESUMEN DE DEFCON, BSIDES Y BLACK HAT EN LAS VEGAS
+
+### Date/Time: Febrero 16 2023, 06:00:00 PM UTC-5
+### Location: Universidad del rosario · Bogotá
+### Register: https://www.meetup.com/owasp-bogota-meetup-group/events/296199949/
+### Presentation summary:
+
+OWASP Bogotá - Ataques dirigidos a smartcontracts y Hack The Box:SQL Inyección
+
 ## Eventos 2022
 
 ### Date/Time: Mayo 5 2022, 06:00:00 PM UTC-5
