@@ -11,7 +11,64 @@ tags: Bogota
 
 ## Eventos Anteriores
 
+## Eventos 2024
+
+### Date/Time: Febrero 10 2024, 06:00:00 PM UTC-5
+### Location: ROCKARBON Sopó Briceño
+### Register: https://www.meetup.com/es-ES/OWASP-Bogota-Meetup-Group/
+### Presentation summary:
+
+Encuentro de 2024 para charlar, beber, comer y hablar de Hacking
+
+Incluye Hamburguesa + Papas + Cerveza
+
+Charla de Eduardo Chavarro
+
+Para confirmar su asistencia
+
 ## Eventos 2023
+
+### Date/Time: Febrero 16 2023, 06:00:00 PM UTC-5
+### Location: Fundación Universitaria San Mateo Carrera 17 #25-25 · Bogotá
+### Register: https://www.meetup.com/es-ES/OWASP-Bogota-Meetup-Group/
+### Presentation summary:
+
+Nuestra primera reunión del 2023 - Modalidad presencial
+
+En esta ocasión nos acompaña Jawy y Jesus Suárez vamos hablar sobre ataques dirigidos a smartcontracts y DAO y una charla introductoria sobre sql injection en ambientes controlados.
+
+Un agradecimiento muy especial a la Fundación Universitaria San Mateo, recuerden que los asistentes deben enviar el número de cédula al correo luis.hernandez@owasp.org previamente para evitar problemas con el acceso a las instalaciones.
+
+Nombre del ponente: Jawy Romero  @JawyPinto
+
+Título de la charla: Ataques dirigidos a smartcontracts y DAO
+
+Descripción:
+Dar a conocer los ataques conocidos en smartcontracts y cómo se han visto afectadas las aplicaciones en entornos blockchain.
+
+Público con conocimiento básico en tecnologías Blockchain
+
+Duración: 45 Min
+
+------------------------
+
+Nombre del ponente: Jesús Suárez
+
+LinkedIn: https://www.linkedin.com/in/jesussuarz/
+
+Título de la charla: Hack The Box: SQL Inyección SQLi
+
+Descripción de la charla: En esta charla conoceremos cómo funciona Hack The Box a nivel general, además completaremos un reto de Hack The Box Academy utilizando diversas técnicas, mostraremos técnicas de SQL Inyección realistas junto con recolección de información en entornos controlados, la idea es entender cómo funciona la plataforma y como se pueden completar los distintos retos propuestos si se quisiera dedicar a Ciberseguridad y Hacking Ético.
+Público objetivo: charla dirigida a informáticos que quieran comenzar en Hacking Ético y Ciberseguridad
+
+Duración: 1 Hora
+
+Los esperamos!!
+
+
+Todos son bienvenidos a unirse a nuestras reuniones del capítulo
+[Owasp - Meetup Bogotá](https://www.meetup.com/es-ES/OWASP-Bogota-Meetup-Group/)
+
 
 ### Date/Time: Septiembre 28 2023, 06:00:00 PM UTC-5
 ### Location: Universidad del rosario · Bogotá
