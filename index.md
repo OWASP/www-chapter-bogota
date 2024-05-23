@@ -30,6 +30,7 @@ Principales temas a tratar en el capitulo :
   - Modelamiento de Amenazas
   - Seguridad en IoT
   - Seguridad en APIs
+  - Ingenieria Inversa
  
  Y cualquier tema que quiera plantear nuestra comunidad que nos permita revisar los proyectos o OWASP o nos genere la oportunidad de construir proyectos para OWASP desde nuestro capítulo, su participación, opinión y apoyo es fundamental para lograr tener un capítulo activo, fuerte e interesante para todos los involucrados en nuestra comunidad.
  
