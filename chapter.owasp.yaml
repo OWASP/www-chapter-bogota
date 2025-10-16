@@ -1,0 +1,25 @@
+leaders:
+  - name: Luis Hernandez
+    email: luis.hernandez@owasp.org
+    github: luisco
+  - name: Giovanni Cruz Forero
+    email: giovanni_cruz.forero@owasp.org
+    github: cruzgio
+location:
+  country: Colombia
+  country_code: CO
+  region: Capital District
+  city: Bogotá
+  latitude: 4.6533816
+  longitude: -74.0836333
+meetup_group: OWASP-Bogota-Meetup-Group
+name: OWASP Bogota
+repositories:
+  - name: www-chapter-bogota
+    url: https://github.com/OWASP/www-chapter-bogota
+    description: OWASP Foundation Web Repository
+tags:
+  - Bogota
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bogota
